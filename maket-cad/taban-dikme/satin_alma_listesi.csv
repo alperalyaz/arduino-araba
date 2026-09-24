@@ -1,0 +1,36 @@
+﻿Malzeme;Adet;Not
+Döner teker, tablalı, frenli, Ø100-125, en az 100 kg/adet;4;"ÖNCE ALIN; tabla delik düzeni ölçülüp çizime işlenecek"
+Ayar ayağı M16, Ø80 pabuç, en az 250 kg/adet;4;destek kulağının ucuna
+Somun M16;8;her ayağa alt + üst
+Altıgen cıvata M10x35 8.8;12;dikme ayağı (somun taban altında)
+Altıgen cıvata M10x35 8.8;16;destek kulağı, alttan
+Altıgen cıvata M10x30 8.8;12;ek flanşı, SADECE ÜSTTEN takılır
+Altıgen cıvata M10x30 8.8;16;teker
+Somun M10 fiberli + pul;28;dikme ayağı (12), teker (16)
+Kaynak somunu M10 (kare, DIN 928);16;taban sacının ÜSTÜNE kaynatılır (kulak cıvataları için)
+Kaynak somunu M10 (kare, DIN 928);12;alt ek flanşının ALTINA kaynatılır (lokma üstten girer)
+Yarı otomatik kat kapısı kilidi, kontaklı (üründeki standart kilit);3;"KİLİT ALINCA ÖLÇÜN; 'kapı kapalı' ve 'kilitli' kontakları emniyet devresine seri, Arduino'dan bağımsız"
+Kabin kilit kamı (geri çekilen, bobinli) + kam konum kontağı;1;kam geri çekik değilse kabin hareket etmez
+Acil açma üçgen anahtarı;1;kilitle uyumlu
+Yaylı menteşe (kendiliğinden kapatır);6;kanat başına 2
+Kapı kolu;3;
+Kat buton kutusu (çağırma butonu + ışık);3;
+Alüminyum kat eşiği profili;3;240 mm boy, kasanın altına kadar
+Akrilik pencere;3;40x190 mm
+Otomatik kabin kapısı: 2 teleskopik kanat + küçük motor + kayış;1;"maket boyunda hazır operatör yok; özel imalat (gerçek operatör gibi hız profili)"
+Elektrik motoru 0,25 kW, 4 kutup, 63 gövde, B14 flanş, trifaze;1;invertörden beslenir
+Dişli pompa ~1 cc/dev, MOTOR OLARAK DA ÇALIŞABİLEN (çift yönlü);1;"inişte geri döner; en düşük devri ve geri dönüşe uygunluğu tedarikçiden teyit"
+İnvertör 0,4 kW, monofaze giriş, vektör kontrol, DAHİLİ FREN KIYICI + fren direnci;1;inişte motor jeneratör olur, enerji dirençte yakılır
+Çan (kampana) + kaplin (63 motor / küçük pompa);1;
+Valf bloğu: çek valf + oturmalı NC iniş valfi 24 V DC + emniyet valfi + elle acil indirme;1;emniyet ayarı ~59 bar
+Manometre 0-100 bar, Ø63, gliserinli;1;öne bakar, fuarda görünür
+Basınç transmitteri 0-100 bar, 4-20 mA;1;Arduino kaydı için
+"Hortum patlama valfi 1/4"", düşük debi (1-3 L/dk ayarlı)";1;"silindir girişine; asansör tiplerinin altında, tedarikçiden teyit"
+"Hidrolik hortum 1/4"" 2SN + iki uçta rakor (pres)";1;"boy ~0,79 m (modelde 643 mm + pay); kuyuya sağ yüzden R1 altından girer"
+Hortum kelepçesi (P tipi) + ayak;2;tabana
+Emiş süzgeci, seviye göstergesi, hava/dolum tapası + TAŞIMA İÇİN KÖR TAPA;1;
+Hidrolik yağ HLP 32;5 L;
+Silindir keçe takımı: bronz burç Ø20x25x20, U-keçe 20x28x5, toz keçesi 20x28x4;1;kafa kapağının içinde
+Hava alma vidası M6;1;kafa kapağında
+Altıgen cıvata M8x25 + somun + pul;8;silindir ayağı (4) + yağ tavası (4)
+Silindirik pim Ø10x20;16;"ayak (8) + ek flanşı (8); delikler çift halinde raybalanır"

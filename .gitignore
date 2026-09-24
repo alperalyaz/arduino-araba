@@ -1,0 +1,6 @@
+.venv-cad/
+__pycache__/
+*.pyc
+build/
+*.hex
+*.elf
